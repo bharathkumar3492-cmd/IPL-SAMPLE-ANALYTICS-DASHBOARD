@@ -43,4 +43,4 @@ Through this project, I learned:
 
 ## GitHub Repository
 
-🔗 GitHub Link: https://github.com/yourusername/IPL-Analysis-Dashboard
+🔗 GitHub Link: https://github.com/bharathkumar3492-cmd/IPL-SAMPLE-ANALYTICS-DASHBOARD.git
