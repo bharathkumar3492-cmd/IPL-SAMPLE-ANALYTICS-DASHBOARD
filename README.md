@@ -27,9 +27,6 @@ This project is an IPL (Indian Premier League) Analysis Dashboard built using Po
 * Best Wicket-Taking Team: MI
 * Most Matches Played: CSK
 
-## Dashboard Preview
-
-![IPL Dashboard](dashboard.png)
 
 ## Learning Outcomes
 
