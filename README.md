@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an IPL (Indian Premier League) Analysis Dashboard built using Power BI. The dashboard provides insights into team performance based on raw IPL data provided during training.
+This project is an IPL (Indian Premier League) Analysis Dashboard built using Power BI. The dashboard was created using raw IPL data provided during training. It helps analyze team performance through interactive visualizations and key performance indicators (KPIs).
 
 ## Features
 
@@ -12,10 +12,10 @@ This project is an IPL (Indian Premier League) Analysis Dashboard built using Po
 * Team-wise Match Analysis
 * Team-wise Run Analysis
 * Team-wise Wicket Analysis
-* Interactive Team Slicer
-* Multiple Visualizations including Cards, Tables, Donut Charts, Area Charts, and Bar Charts
+* Interactive Team Filter (Slicer)
+* Tables, Cards, Donut Charts, Area Charts, and Column Charts
 
-## Tools Used
+## Tools & Technologies
 
 * Power BI Desktop
 * Power Query
@@ -27,18 +27,20 @@ This project is an IPL (Indian Premier League) Analysis Dashboard built using Po
 * Best Wicket-Taking Team: MI
 * Most Matches Played: CSK
 
+## Dashboard Preview
+
+![IPL Dashboard](dashboard.png)
+
 ## Learning Outcomes
 
-Through this project, I gained hands-on experience in:
+Through this project, I learned:
 
-* Data Transformation using Power Query
+* Data Cleaning and Transformation
 * Data Modeling
-* Creating DAX Measures
-* Building Interactive Dashboards
-* Data Visualization and Reporting
+* DAX Measure Creation
+* Dashboard Design
+* Interactive Data Visualization
 
-##Project Link
-[https://github.com/bharathkumar3492-cmd/IPL-SAMPLE-ANALYTICS-DASHBOARD.git]
+## GitHub Repository
 
-
-
+🔗 GitHub Link: https://github.com/yourusername/IPL-Analysis-Dashboard
